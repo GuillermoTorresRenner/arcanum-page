@@ -95,16 +95,15 @@
         <h1 class="h4 text-muted text-center">Control de Elaboración</h1>
 
         <div class="row justify-content-center mt-5">
-          <div class="col-auto ">
-            <input type="number" name="" value="0" required min="0" max="73">
-          </div>
+
           <div class="col-auto">
             <div class="form-check form-switch">
               <input class="form-check-input" type="checkbox" id="flexSwitchCheckDefault">
-              <label class="form-check-label text-primary " for="flexSwitchCheckDefault">Iniciar Carga</label>
+              <label class="form-check-label text-primary " for="flexSwitchCheckDefault">Trasiego </label>
             </div>
           </div>
         </div>
+      </div>
 
 
 
@@ -113,9 +112,9 @@
   </div>
 </div>
 
-<div class="accordion-item">
+<div class="accordion-item bg-dark">
   <h2 class="accordion-header" id="flush-headingThree">
-    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapse4" aria-expanded="false" aria-controls="flush-collapse4">
+    <button class="accordion-button collapsed bg-dark text-primary" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapse4" aria-expanded="false" aria-controls="flush-collapse4">
       Recirculación y lavado de granos
     </button>
   </h2>
@@ -123,22 +122,54 @@
     <div class="accordion-body">
       <!-- Inicio de código Sección de Acordión-->
 
+      <div class="container">
+        <h1 class="h2 text-center text-primary">Recirculación y Lavado de Granos</h1>
+        <h1 class="h4 text-muted text-center">Control de Elaboración</h1>
 
+        <div class="row justify-content-center mt-5">
+          <div class="col-auto ">
+            <div class="form-check form-switch">
+              <input class="form-check-input" type="checkbox" id="flexSwitchCheckDefault">
+              <label class="form-check-label text-primary " for="flexSwitchCheckDefault">Recirculación</label>
+            </div>
+          </div>
+          <div class="col-auto">
+            <div class="form-check form-switch">
+              <input class="form-check-input" type="checkbox" id="flexSwitchCheckDefault">
+              <label class="form-check-label text-primary " for="flexSwitchCheckDefault">Lavado de Granos</label>
+            </div>
+          </div>
+        </div>
+      </div>
 
 
       <!-- Fin de código Sección de Acordión--></div>
     </div>
   </div>
 
-  <div class="accordion-item">
+  <div class="accordion-item bg-dark">
     <h2 class="accordion-header" id="flush-headingThree">
-      <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapse5" aria-expanded="false" aria-controls="flush-collapse5">
+      <button class="accordion-button collapsed bg-dark text-primary" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapse5" aria-expanded="false" aria-controls="flush-collapse5">
         Trasiego desde Macerador a Olla
       </button>
     </h2>
     <div id="flush-collapse5" class="accordion-collapse collapse" aria-labelledby="flush-headingThree" data-bs-parent="#accordionFlushExample">
       <div class="accordion-body">
         <!-- Inicio de código Sección de Acordión-->
+        <div class="container">
+          <h1 class="h2 text-center text-primary">Trasiego desde MAcerador a Olla</h1>
+          <h1 class="h4 text-muted text-center">Control de Elaboración</h1>
+
+          <div class="row justify-content-center mt-5">
+            <div class="col-auto ">
+              <div class="form-check form-switch">
+                <input class="form-check-input" type="checkbox" id="flexSwitchCheckDefault">
+                <label class="form-check-label text-primary " for="flexSwitchCheckDefault">Trasiego</label>
+              </div>
+            </div>
+
+          </div>
+        </div>
 
 
 
@@ -147,15 +178,29 @@
       </div>
     </div>
 
-    <div class="accordion-item">
+    <div class="accordion-item bg-dark">
       <h2 class="accordion-header" id="flush-headingThree">
-        <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapse6" aria-expanded="false" aria-controls="flush-collapse6">
+        <button class="accordion-button collapsed bg-dark text-primary" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapse6" aria-expanded="false" aria-controls="flush-collapse6">
           Refrigeración
         </button>
       </h2>
       <div id="flush-collapse6" class="accordion-collapse collapse" aria-labelledby="flush-headingThree" data-bs-parent="#accordionFlushExample">
         <div class="accordion-body">
           <!-- Inicio de código Sección de Acordión-->
+          <div class="container">
+            <h1 class="h2 text-center text-primary">Refrigeración </h1>
+            <h1 class="h4 text-muted text-center">Control de Elaboración</h1>
+
+            <div class="row justify-content-center mt-5">
+
+              <div class="col-auto">
+                <div class="form-check form-switch">
+                  <input class="form-check-input" type="checkbox" id="flexSwitchCheckDefault">
+                  <label class="form-check-label text-primary " for="flexSwitchCheckDefault">Refrigerar</label>
+                </div>
+              </div>
+            </div>
+            </div>
 
 
 

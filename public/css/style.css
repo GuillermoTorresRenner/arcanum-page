@@ -1,0 +1,11 @@
+canvas {
+    -moz-user-select: none;
+    -webkit-user-select: none;
+    -ms-user-select: none;
+  }
+  #canvas-holder{
+    width:70%,
+    align:center,
+  
+
+  }

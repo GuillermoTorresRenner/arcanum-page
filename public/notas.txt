@@ -1,0 +1,2 @@
+<?php  echo password_hash("Elmundo21",PASSWORD_DEFAULT,array("cost"=>12))?>
+<?php  password_verify(paswordIngresado, passwordAlmacenado)?>

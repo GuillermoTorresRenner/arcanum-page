@@ -3,6 +3,7 @@
 
 <script src="/public/js/graficos.js" charset="utf-8"></script>
 <script src="/public/websocket/MQTT.js" charset="utf-8"></script>
+<script src="/public/js/actuadores.js" charset="utf-8"></script>
 
 </body>
 </html>

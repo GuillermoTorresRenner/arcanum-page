@@ -1,3 +1,4 @@
+
 <div class="accordion accordion-flush" id="accordionFlushExample">
   <div class="accordion-item bg-dark">
     <h2 class="accordion-header" id="flush-headingOne">
@@ -13,7 +14,7 @@
           <h1 class="h4 text-muted text-center">Control de Elaboración</h1>
           <div class="col-auto">
             <div class="form-check form-switch">
-              <input class="form-check-input" type="checkbox" id="flexSwitchCheckDefault">
+              <input class="form-check-input" type="checkbox" id="succionExterna">
               <label class="form-check-label text-primary " for="flexSwitchCheckDefault">Iniciar Carga</label>
             </div>
           </div>
@@ -45,7 +46,7 @@
           </div>
           <div class="col-auto">
             <div class="form-check form-switch">
-              <input class="form-check-input" type="checkbox" id="flexSwitchCheckDefault">
+              <input class="form-check-input" type="checkbox" id="cargaAgua">
               <label class="form-check-label text-primary " for="flexSwitchCheckDefault">Iniciar Carga</label>
             </div>
           </div>
@@ -98,7 +99,7 @@
 
           <div class="col-auto">
             <div class="form-check form-switch">
-              <input class="form-check-input" type="checkbox" id="flexSwitchCheckDefault">
+              <input class="form-check-input" type="checkbox" id="trasiegoOllaMacerador">
               <label class="form-check-label text-primary " for="flexSwitchCheckDefault">Trasiego </label>
             </div>
           </div>
@@ -129,13 +130,13 @@
         <div class="row justify-content-center mt-5">
           <div class="col-auto ">
             <div class="form-check form-switch">
-              <input class="form-check-input" type="checkbox" id="flexSwitchCheckDefault">
+              <input class="form-check-input" type="checkbox" id="recirculacion">
               <label class="form-check-label text-primary " for="flexSwitchCheckDefault">Recirculación</label>
             </div>
           </div>
           <div class="col-auto">
             <div class="form-check form-switch">
-              <input class="form-check-input" type="checkbox" id="flexSwitchCheckDefault">
+              <input class="form-check-input" type="checkbox" id="lavado">
               <label class="form-check-label text-primary " for="flexSwitchCheckDefault">Lavado de Granos</label>
             </div>
           </div>
@@ -157,13 +158,13 @@
       <div class="accordion-body">
         <!-- Inicio de código Sección de Acordión-->
         <div class="container">
-          <h1 class="h2 text-center text-primary">Trasiego desde MAcerador a Olla</h1>
+          <h1 class="h2 text-center text-primary">Trasiego desde Macerador a Olla</h1>
           <h1 class="h4 text-muted text-center">Control de Elaboración</h1>
 
           <div class="row justify-content-center mt-5">
             <div class="col-auto ">
               <div class="form-check form-switch">
-                <input class="form-check-input" type="checkbox" id="flexSwitchCheckDefault">
+                <input class="form-check-input" type="checkbox" id="trasiegoMaceradorOlla">
                 <label class="form-check-label text-primary " for="flexSwitchCheckDefault">Trasiego</label>
               </div>
             </div>
@@ -195,7 +196,7 @@
 
               <div class="col-auto">
                 <div class="form-check form-switch">
-                  <input class="form-check-input" type="checkbox" id="flexSwitchCheckDefault">
+                  <input class="form-check-input" type="checkbox" id="refrigeracion">
                   <label class="form-check-label text-primary " for="flexSwitchCheckDefault">Refrigerar</label>
                 </div>
               </div>

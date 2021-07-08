@@ -26,7 +26,7 @@
             <a class="nav-link dropdown-toggle text-dark " href="#" id="navbarDropdownMenuLink" role="button" data-bs-toggle="dropdown" aria-expanded="false">
               Diseño de Recetas
             </a>
-            <ul class="dropdown-menu bg-primary" aria-labelledby="navbarDropdownMenuLink">
+            <ul class="dropdown-menu bg-danger" aria-labelledby="navbarDropdownMenuLink">
 
               <li><a class="dropdown-item" href="#">Confección de Recetas</a></li>
             </ul>
@@ -36,7 +36,7 @@
             <a class="nav-link dropdown-toggle text-dark" href="#" id="navbarDropdownMenuLink" role="button" data-bs-toggle="dropdown" aria-expanded="false">
               Control de Procesos
             </a>
-            <ul class="dropdown-menu bg-danger" aria-labelledby="navbarDropdownMenuLink">
+            <ul class="dropdown-menu bg-primary" aria-labelledby="navbarDropdownMenuLink">
               <li><a class="dropdown-item" href="/dashboard/movimientos">Movimientos</a></li>
               <li><a class="dropdown-item" href="#">Molienda</a></li>
               <li><a class="dropdown-item" href="#">Precalentado</a></li>
